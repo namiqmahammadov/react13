@@ -1,0 +1,14 @@
+.about-container {
+  padding: 20px;
+  background-color: pink;
+}
+
+.about-title {
+  font-size: 24px;
+  color: black;
+}
+
+.about-content {
+  font-size: 16px;
+  color: grey;
+}

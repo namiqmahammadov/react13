@@ -1,0 +1,14 @@
+.contact-container {
+  padding: 20px;
+  background-color: greenyellow;
+}
+
+.contact-title {
+  font-size: 24px;
+  color: black;
+}
+
+.contact-content {
+  font-size: 16px;
+  color: grey;
+}

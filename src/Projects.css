@@ -1,0 +1,14 @@
+.projects-container {
+  padding: 20px;
+  background-color: aqua;
+}
+
+.projects-title {
+  font-size: 24px;
+  color: black;
+}
+
+.projects-content {
+  font-size: 16px;
+  color: grey;
+}
